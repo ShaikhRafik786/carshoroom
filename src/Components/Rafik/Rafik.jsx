@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Rafik = () => {
     return (
         <div>
@@ -7,5 +6,4 @@ const Rafik = () => {
         </div>
     );
 };
-
 export default Rafik;
