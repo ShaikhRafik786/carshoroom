@@ -4,6 +4,7 @@ import Aqib from "./Components/Aqib/Aqib";
 import Khizer from "./Components/Khizer/Khizer";
 import Saqib from "./Components/Saqib/Saqib";
 import Rafik from "./Components/Rafik/Rafik";
+import Athar from "./Components/Athar/Athar";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Khizer/>
       <Saqib/>
       <Rafik/>
+      <Athar/>
     </div>
   );
 }
